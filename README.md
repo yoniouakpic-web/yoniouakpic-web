@@ -41,6 +41,7 @@ I like turning ideas into things that actually work.
 
 | Project | What it is |
 |---|---|
+| 🛣️ **[Asphalt OS](https://asphaltos.io)** | All-in-one enterprise software for asphalt and paving companies: CRM, estimating, fleet, and payroll in one app |
 | 📸 **Photography Portfolio** | Multi-year portfolio with automatic EXIF reading, folder-based galleries, private client pages, Pantone Color of the Year themes |
 | 🎮 **GTA VI-Style HUD Generator** | Browser tool that renders a tilted 3D minimap + HUD over real-world routes, exported to video |
 | 💾 **PC Setup Downloader** | Windows app that batch-downloads every driver and app installer straight from vendor sites for a fresh build |
