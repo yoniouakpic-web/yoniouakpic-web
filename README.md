@@ -50,6 +50,16 @@ I like turning ideas into things that actually work.
 
 ---
 
+### 🌐 Sites I work on
+
+- [get.asphaltos.io](https://get.asphaltos.io)
+- [wiki.asphaltos.io](https://wiki.asphaltos.io)
+- [yoniouak.com](https://yoniouak.com)
+- [ouaknineproperties.com](https://ouaknineproperties.com)
+- [scgautos.com](https://scgautos.com)
+
+---
+
 ### 📊 Stats
 
 <p align="center">
