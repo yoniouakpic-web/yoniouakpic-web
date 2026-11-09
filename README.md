@@ -41,22 +41,14 @@ I like turning ideas into things that actually work.
 
 | Project | What it is |
 |---|---|
-| 🛣️ **[Asphalt OS](https://asphaltos.io)** | All-in-one enterprise software for asphalt and paving companies: CRM, estimating, fleet, and payroll in one app |
-| 📸 **Photography Portfolio** | Multi-year portfolio with automatic EXIF reading, folder-based galleries, private client pages, Pantone Color of the Year themes |
+| 🛣️ **[Asphalt OS](https://asphaltos.io)** | All-in-one enterprise software for asphalt and paving companies: CRM, estimating, fleet, and payroll in one app. Also [get.asphaltos.io](https://get.asphaltos.io) and [wiki.asphaltos.io](https://wiki.asphaltos.io) |
+| 🏠 **[Ouaknine Properties](https://ouaknineproperties.com)** | Website for my property company. I work on this |
+| 🚗 **[SCG Autos](https://scgautos.com)** | I work on this site |
+| 📸 **[Photography Portfolio](https://yoniouak.com)** | Multi-year portfolio with automatic EXIF reading, folder-based galleries, private client pages, Pantone Color of the Year themes |
 | 🎮 **GTA VI-Style HUD Generator** | Browser tool that renders a tilted 3D minimap + HUD over real-world routes, exported to video |
 | 💾 **PC Setup Downloader** | Windows app that batch-downloads every driver and app installer straight from vendor sites for a fresh build |
 | 🥗 **Nutrition Dashboard** | React dashboard for meal planning, macros, and grocery pricing |
 | 🛩️ **Pegasus** | Aviation roleplay project — French marketing site plus fixed-wing & helicopter training manuals built on real ICAO/EASA content |
-
----
-
-### 🌐 Sites I work on
-
-- [get.asphaltos.io](https://get.asphaltos.io)
-- [wiki.asphaltos.io](https://wiki.asphaltos.io)
-- [yoniouak.com](https://yoniouak.com)
-- [ouaknineproperties.com](https://ouaknineproperties.com)
-- [scgautos.com](https://scgautos.com)
 
 ---
 
