@@ -42,8 +42,8 @@ I like turning ideas into things that actually work.
 | Project | What it is |
 |---|---|
 | 🛣️ **[Asphalt OS](https://asphaltos.io)** | All-in-one enterprise software for asphalt and paving companies: CRM, estimating, fleet, and payroll in one app. Also [get.asphaltos.io](https://get.asphaltos.io) and [wiki.asphaltos.io](https://wiki.asphaltos.io) |
-| 🏠 **[Ouaknine Properties](https://ouaknineproperties.com)** | Website for my property company. I work on this |
-| 🚗 **[SCG Autos](https://scgautos.com)** | I work on this site |
+| 🔐 **Security Audit** | I'm working on a security audit project |
+| 🎨 **Design Lab** | I'm working on Design Lab |
 | 📸 **[Photography Portfolio](https://yoniouak.com)** | Multi-year portfolio with automatic EXIF reading, folder-based galleries, private client pages, Pantone Color of the Year themes |
 | 🎮 **GTA VI-Style HUD Generator** | Browser tool that renders a tilted 3D minimap + HUD over real-world routes, exported to video |
 | 💾 **PC Setup Downloader** | Windows app that batch-downloads every driver and app installer straight from vendor sites for a fresh build |
