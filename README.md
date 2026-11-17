@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://asphaltos.io"><img src="assets/btn-asphalt-os.svg" alt="Asphalt OS" /></a>
+  <a href="https://get.asphaltos.io"><img src="assets/btn-asphalt-os.svg" alt="Asphalt OS" /></a>
   <a href="https://get.asphaltos.io"><img src="assets/btn-get-asphalt.svg" alt="Try the demo" /></a>
   <a href="https://yoniouak.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
 </p>
