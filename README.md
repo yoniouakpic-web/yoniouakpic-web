@@ -1,18 +1,24 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d1a,60:2a1f5c,100:7C5CFF&text=Yoni%20Ouaknine&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" alt="header" />
+  <img src="assets/header.svg" alt="Yoni Ouaknine" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C5CFF&center=true&vCenter=true&width=620&lines=Computer+Science+student+focused+on+AI;Building+tools+I+actually+use;Pilot+in+training+%E2%9C%88%EF%B8%8F;Code+%E2%80%A2+Cameras+%E2%80%A2+Cockpits" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=FFC400&center=true&vCenter=true&width=780&height=40&lines=Computer+Science+student+focused+on+AI;Building+tools+I+actually+use;Pilot+in+training+%E2%9C%88%EF%B8%8F;Code+%E2%80%A2+Cameras+%E2%80%A2+Cockpits" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Atlanta,_GA-0d0d1a?style=for-the-badge&logo=googlemaps&logoColor=7C5CFF" />
-  <img src="https://img.shields.io/badge/CS_%2B_AI-0d0d1a?style=for-the-badge&logo=openai&logoColor=7C5CFF" />
-  <img src="https://komarev.com/ghpvc/?username=yoniouakpic-web&style=for-the-badge&color=7C5CFF&label=PROFILE+VIEWS" />
+  <a href="https://asphaltos.io"><img src="assets/btn-asphalt-os.svg" alt="Asphalt OS" /></a>
+  <a href="https://get.asphaltos.io"><img src="assets/btn-get-asphalt.svg" alt="Try the demo" /></a>
+  <a href="https://yoniouak.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Atlanta,_GA-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=FFC400" />
+  <img src="https://img.shields.io/badge/CS_%2B_AI-0a0a0a?style=for-the-badge&logo=openai&logoColor=FFC400" />
+  <img src="https://komarev.com/ghpvc/?username=yoniouakpic-web&style=for-the-badge&color=FFC400&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -55,12 +61,12 @@ I like turning ideas into things that actually work.
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoniouakpic-web&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=7C5CFF&icon_color=7C5CFF&text_color=ffffff&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoniouakpic-web&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=7C5CFF&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoniouakpic-web&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFC400&icon_color=FFC400&text_color=ffffff&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoniouakpic-web&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFC400&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yoniouakpic-web&hide_border=true&background=0d0d1a&ring=7C5CFF&fire=7C5CFF&currStreakLabel=7C5CFF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=yoniouakpic-web&hide_border=true&background=0a0a0a&ring=FFC400&fire=FFC400&currStreakLabel=FFC400&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </p>
 
 ---
@@ -72,5 +78,5 @@ I like turning ideas into things that actually work.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C5CFF,40:2a1f5c,100:0d0d1a&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFC400,40:4a3a00,100:0a0a0a&section=footer" />
 </p>
